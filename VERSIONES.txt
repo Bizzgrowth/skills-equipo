@@ -1,0 +1,7 @@
+Orígenes incluidos (git clone --depth 1, 25 nov 2026, America/Bogota):
+
+- garrytan/gstack        commit 1145e80   versión 1.103.3.0   licencia MIT
+- anthropics/skills      commit e4bb5d9   licencia Apache-2.0 por skill (ver LEEME.md)
+- obra/superpowers       commit 22f0b46   licencia MIT
+- JuliusBrussee/caveman  commit 47c61be   licencia Apache-2.0
+- garrytan/gbrain        commit 1701a0a9  versión 0.60.774.0  licencia MIT

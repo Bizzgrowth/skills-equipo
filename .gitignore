@@ -1,0 +1,5 @@
+.DS_Store
+*.rar
+.env
+.env.*
+!.env.example

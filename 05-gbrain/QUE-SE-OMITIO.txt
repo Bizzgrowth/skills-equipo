@@ -1,0 +1,11 @@
+Para aligerar este paquete no se copió el código del CLI ni material de tests:
+
+- src/ (incluido WASM de tree-sitter)
+- rust/, apple/, native/, admin/, scripts/, vendor/
+- test/, tests/, evals/, .gbrain-evals/, docs/eval/, CHANGELOG.md
+
+Para usar GBrain hay que instalar el CLI oficial (no está en npm):
+
+  bun install -g github:garrytan/gbrain#stable
+
+Repo completo: https://github.com/garrytan/gbrain
